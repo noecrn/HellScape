@@ -1,2 +1,1 @@
-# Divinity
-Projet S2
+# Projet S2
