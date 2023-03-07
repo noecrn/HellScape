@@ -1,7 +1,6 @@
-
 using UnityEngine;
 
-public class movePlayerB : MonoBehaviour
+public class MovePlayerB : MonoBehaviour
 {
     public float moveSpeed;
     public float jumpForce;
@@ -24,11 +23,11 @@ public class movePlayerB : MonoBehaviour
         {
             isJumping = true;
         }
-
-        MovePlayerB(horizontalMovement);
+    
+        MovePlayersB(horizontalMovement);
     }
 
-    void MovePlayerB(float _horizontalMovement)
+    void MovePlayersB(float _horizontalMovement)
     {
         Vector3 targetVelocity = new Vector2(_horizontalMovement, rb.velocity.y);
         rb.velocity = Vector3.SmoothDamp(rb.velocity, targetVelocity, ref velocity, .05f);
