@@ -23,7 +23,7 @@ public class MovePlayerB : MonoBehaviour
         {
             isJumping = true;
         }
-    
+
         MovePlayersB(horizontalMovement);
     }
 
