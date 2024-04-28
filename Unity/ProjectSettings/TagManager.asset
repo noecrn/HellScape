@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - PlayerA
+  - PlayerB
+  - SpikeWhite
+  - SpikeRed
+  - PlayerSpawn
+  - Echelle
+  - InteractUI
+  - Check
+  - InventoryWindow
+  - DescriptionWindow
+  - ItemsImage
+  - DescriptionImage
+  - DescriptionTitle
+  - DescriptionText
+  - CanvasInventory
+  - Apple
+  - Key
+  - MushroomChest
+  - WhiteChest
+  - warningCoins
+  - Fondz
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Echelles
+  - Water
+  - UI
+  - PLayerA
+  - PlayerB
+  - EnemyA
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

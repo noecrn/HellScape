@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Unity/Assets/Scripts/PlayerExtras (2).cs.meta
+guid: 588e05eaaa3174a208ef455edc2b0bfb
+========
+guid: dace1358b66dc05478ebcf2c69d41553
+>>>>>>>> clement.gregoire:Unity/Assets/Scripts/EnemyHealth.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
