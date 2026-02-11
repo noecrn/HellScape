@@ -1,17 +1,60 @@
-Hell-scape
+# 🔥 Hell-scape
 
-Description
+> **Escape the underworld together.** A 2D cooperative platformer where heaven and hell must unite to find a way out.
 
-Hell-scape est un jeu vidéo de plateforme en 2D axé sur la coopération entre deux joueurs. Les protagonistes du jeu sont Angie, un ange, et Dimy, un démon, qui cherchent à s'échapper de l'enfer. Le jeu propose un style rétro et pixelisé, rappelant les premiers jeux de plateforme.
+![Unity](https://img.shields.io/badge/Made%20with-Unity-black?style=for-the-badge&logo=unity)
+![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp)
+![Genre](https://img.shields.io/badge/Genre-Coop%20Platformer-orange?style=for-the-badge)
 
-Fonctionnalités
+**Hell-scape** is a 2D platformer created for the **EPITA S2 Project**. The game centers on the cooperation between two unlikely protagonists: **Angie**, an angel, and **Dimy**, a demon. Trapped in an infernal world inspired by Catholic and Greek mythologies, they must combine their unique powers to overcome obstacles and escape.
 
-Deux joueurs peuvent jouer simultanément, chacun ayant un gameplay unique correspondant à son personnage.
-Angie, l'ange, possède des capacités spéciales de vol et de guérison.
-Dimy, le démon, est plus agile et a la capacité de lancer des projectiles.
-Les joueurs doivent coopérer pour surmonter les obstacles et vaincre les ennemis afin de progresser dans les niveaux.
-L'univers du jeu est inspiré de la mythologie, en s'appuyant sur des éléments du catholicisme et de la mythologie grecque de manière symbolique.
+## 🎮 Gameplay Features
 
-Objectif
+### Cooperative Mechanics
+The game is designed for **two simultaneous players**. Success depends on synergy—certain paths can only be cleared by using both characters' skills in tandem.
 
-L'objectif de ce projet est de créer un jeu vidéo fini et fonctionnel d'ici la fin du deuxième semestre. Nous avons sélectionné des mécaniques de jeu provenant de différents jeux que nous apprécions afin de créer un nouveau jeu qui nous ressemble, en choisissant son identité graphique. Notre ambition est de pouvoir jouer à ce jeu et d'en être fiers.
+
+
+### Unique Characters
+* **Angie (The Angel):** Focuses on mobility and support. She possesses the ability to **fly** and **heal** her companion.
+* **Dimy (The Demon):** Focuses on offense and agility. He is faster on the ground and can throw **projectiles** to defeat enemies.
+
+### Retro Aesthetic
+The game features a **pixel-art** style, paying homage to classic retro platformers of the 8-bit and 16-bit eras.
+
+## 🏛️ Lore & Inspiration
+The universe of Hell-scape is a symbolic blend of:
+* **Catholicism:** Iconography of angels, demons, and the structure of Hell.
+* **Greek Mythology:** Influences on the landscape and the trials the duo must face.
+
+## 🛠️ Tech Stack
+* **Engine:** Unity 2021+
+* **Language:** C#
+* **Assets:** Custom Pixel Art & Mythology-inspired sprites.
+
+## 🚀 How to Play (Development Build)
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/noecrn/HellScape.git
+    ```
+2.  **Open in Unity**
+    * Launch Unity Hub.
+    * Add the project folder.
+    * Open with a compatible Unity Editor version.
+3.  **Run**
+    * Open `Assets/Scenes/Menu.unity`.
+    * Press **Play**.
+
+## 🎯 Project Goal
+This project represents our ambition to create a finished, functional video game by the end of the second semester. By blending mechanics from our favorite platformers with an original visual identity, we have built a game we are proud to share.
+
+## 👥 The Team
+
+* **Noé** – Project Manager (Chef de projet)
+* **Théo** – Unity Expert
+* **Leandro** – Level Designer
+* **Clément** – Web Designer
+
+---
+*Developed for academic purposes at EPITA.*
